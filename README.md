@@ -1,6 +1,6 @@
 # Market Management System
 
-The Market Management System is a Java-based application that implements object-oriented programming concepts such as inheritance, encapsulation, polymorphism, abstraction, and interfaces. The system also includes file handling and user-defined packages.
+The Market Management System is a Java-based application that implements object-oriented programming concepts such as inheritance, encapsulation, polymorphism, abstraction, and interfaces. The system also includes file handling and user-defined packages.In addition, the system also implements exception handling to provide better error handling and user feedback.
 
 ![Market Management System](https://github.com/Pulok000/Market-Mangement-System/assets/30721770/a0ddf571-f390-43be-bb16-cd9829d1364d)
 
